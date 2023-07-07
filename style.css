@@ -1,0 +1,376 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    height: 2440px;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: rgb(255, 198, 47);
+}
+
+img {
+    height: 120px;
+    width: 220px;
+}
+
+.mainsection {
+    border: 1px solid rgb(255, 198, 47);
+    width: 1000px;
+    background-color: rgb(255, 198, 47);
+    margin: auto;
+    margin-top: 50px;
+    height: 2370px;
+}
+
+#logo1 {
+    border: 0px solid black;
+    margin-left: 50px;
+    width: 280px;
+    height: 115px;
+    margin-top: -1px;
+}
+
+.logoimage {
+    height: 125px;
+    width: 350px;
+}
+
+#submainsec {
+    border: 1px;
+    width: 900px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#subsection2 {
+    border: 1px solid #1a1a1a;
+    background-color: #1a1a1a;
+    height: 310px;
+    width: 900px;
+}
+
+#topmenulist {
+    border: 1px solid #1a1a1a;
+    height: 33px;
+    width: 330px;
+    float: right;
+    margin-top: 4px;
+}
+
+#maintext {
+    border: 1px solid black;
+    height: 270px;
+    width: 899px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    background-image: url('https://img.freepik.com/premium-photo/dark-tone-office-workplace-wooden-work-desk-with-laptop-documents-modern-interior-cozy-cabinet-comfortable-workspace-workplace-with-computer-home_44344-3180.jpg?w=2000');
+}
+
+#submaintext {
+    margin-top: 80px;
+    font-size: x-large;
+    color: white;
+}
+
+#topreadmore {
+    height: 30px;
+}
+
+.topreadmore {
+    background-color: rgb(255, 198, 47);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.subsection3 {
+    border: 1px solid black;
+    width: 900px;
+    height: 405px;
+    background-color: #262626;
+}
+
+#sec1div1main {
+    border: 1px solid #262626;
+    width: 900px;
+    height: 95px;
+    text-align: center;
+    color: white;
+}
+
+#sec1div1 {
+    font-size: x-large;
+    margin-top: 22px;
+    color: white;
+}
+
+#sec1div2 {
+    color: rgb(255, 198, 47);
+}
+
+#subsecdiv1 {
+    float: left;
+    width: 250px;
+    height: 100px;
+    margin-left: 95px;
+}
+
+#subsecdiv2 {
+    float: left;
+    width: 250px;
+    height: 125px;
+}
+
+#subsecdiv3 {
+    float: left;
+    width: 240px;
+
+}
+
+#subsecsubdiv1 {
+    border: 1px solid #262626;
+    width: 220px;
+    font-size: large;
+    height: 45px;
+    text-align: center;
+    color: white;
+}
+
+#subsecsubdiv2 {
+    border: 1px solid #262626;
+    width: 220px;
+    font-size: large;
+    height: 45px;
+    text-align: center;
+    color: white;
+}
+
+#subsecsubdiv3 {
+    border: 1px solid #262626;
+    width: 220px;
+    font-size: large;
+    height: 45px;
+    text-align: center;
+    color: white;
+}
+
+#subsecsubdiv11 {
+    border: 1px solid #262626;
+    width: 220px;
+    font-size: small;
+    color: white;
+}
+
+#subsecsubdiv22 {
+    border: 1px solid #262626;
+    width: 220px;
+    font-size: small;
+    color: white;
+}
+
+#subsecsubdiv33 {
+    border: 1px solid #262626;
+    width: 220px;
+    font-size: small;
+    color: white;
+}
+
+.subsection4 {
+    width: 900px;
+    border: 1px solid black;
+    height: 250px;
+    background-image: url('https://media.istockphoto.com/id/1262359088/photo/elevated-high-angle-shot-of-dark-empty-office-with-wheelchairs-desks-and-computers-concept-of.jpg?b=1&s=170667a&w=0&k=20&c=cUzVfwtI6D26fNkuefqXfABtA_otMq-sLT0H_VdSvMw=');
+    background-position: center;
+}
+
+#subsec4text {
+    width: 900px;
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+#subsecdiv1 {
+    font-size: xx-large;
+    color: white;
+}
+
+#subsecdiv2 {
+    margin-top: 10px;
+}
+
+.subsection5 {
+    border: 1px solid rgb(38, 38, 38);
+    width: 900px;
+    height: 500px;
+    background-color: rgb(38, 38, 38);
+}
+
+span {
+    background-color: rgb(255, 198, 47);
+}
+
+#subsec5div1 {
+    border: 1px solid rgb(38, 38, 38);
+    width: 900px;
+    height: 60px;
+    text-align: center;
+}
+
+#subsec5div1subdiv1 {
+    font-size: x-large;
+    margin-top: 5px;
+    color: white;
+}
+
+#subsec5div1subdiv2 {
+    color: rgb(255, 198, 47);
+}
+
+#subsec5div2subdiv1,
+#subsec5div2subdiv2,
+#subsec5div2subdiv3,
+#subsec5div2subdiv4,
+#subsec5div2subdiv5,
+#subsec5div2subdiv6 {
+    border: 1px solid rgb(38, 38, 38);
+    width: 240px;
+    float: left;
+    margin-left: 43px;
+    margin-top: 50px;
+    height: 145px;
+    color: white;
+}
+
+#icondiv1,
+#icondiv2,
+#icondiv3,
+#icondiv4,
+#icondiv5,
+#icondiv6 {
+    font-size: 22px;
+    width: 2800px;
+}
+
+#textdiv1,
+#textdiv2,
+#textdiv3,
+#textdiv4,
+#textdiv5,
+#textdiv6 {
+    font-size: smaller;
+}
+
+.subsection6 {
+    width: 900px;
+    height: 320px;
+    border: 1px solid #1a1a1a;
+    background-color: #1a1a1a;
+}
+
+#subsec6div1 {
+    border: 1px solid #1a1a1a;
+    width: 900px;
+    height: 63px;
+    text-align: center;
+}
+
+#subsec6sebdiv1 {
+    font-size: x-large;
+    color: white;
+}
+
+#subsec6sebdiv2 {
+    color: rgb(255, 198, 47);
+}
+
+.sec6class {
+    border: 1px solid #1a1a1a;
+    width: 250px;
+    height: 205px;
+    float: left;
+    margin-left: 37px;
+}
+
+#icon7,
+#icon9,
+#icon8 {
+    font-size: x-large;
+}
+
+#belowicondiv,
+#belowicondiv2,
+#belowicondiv3 {
+    color: white;
+}
+
+.but2 {
+    height: 35px;
+    width: 75px;
+}
+
+.subsection7 {
+    border: 1px solid black;
+    width: 900px;
+    height: 225px;
+    text-align: center;
+    padding-top: 70px;
+    background-image: url('https://media.istockphoto.com/id/557608443/photo/businesswoman-using-computer-in-dark-office.jpg?b=1&s=170667a&w=0&k=20&c=vNdl7Qxp301bFrQ5iiUNKMDNAZ8nXTn3gDHzJzT8dIc=');
+}
+
+#subsec7subdiv1 {
+    font-size: x-large;
+    color: rgb(255, 198, 47);
+}
+
+#subsec7subdiv2 {
+    color: white;
+    margin-bottom: 15px;
+}
+
+#search {
+    height: 40px;
+    width: 290px;
+    background-color: rgb(255, 198, 47);
+}
+
+.subsection8 {
+    border: 1px;
+    width: 900px;
+    height: 190px;
+    background-color: rgb(38, 38, 38);
+}
+
+.sce8class {
+    border: 1px;
+    width: 215px;
+    height: 180px;
+    float: left;
+    text-align: center;
+    background-color: rgb(38, 38, 38);
+    color: white;
+    margin-top: 10px;
+}
+
+.logoimage2 {
+    width: 215px;
+    height: 190px;
+    margin-top: -10px;
+}
+
+#subsec8div1 {
+    height: 180px;
+    width: 215px;
+}
+
+.menu {
+    margin-left: 5px;
+}
